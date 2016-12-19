@@ -1,0 +1,1 @@
+<?php echo "<pre>"; echo print_r($user_profile) ?>
